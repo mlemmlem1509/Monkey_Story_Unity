@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1925494597
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: page
+      Dependencies: {}
+    Info_1:
+      Name: audio
+      Dependencies: {}
+    Info_2:
+      Name: text
+      Dependencies: {}
